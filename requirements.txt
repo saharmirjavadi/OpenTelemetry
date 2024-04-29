@@ -1,0 +1,8 @@
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+opentelemetry-baggage
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-instrumentation
+opentelemetry-proto
+opentelemetry-sdk
