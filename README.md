@@ -1,6 +1,6 @@
 # OpenTelemetry Tracing with Baggage Example
 
-This is a simple Python script demonstrating how to use OpenTelemetry for distributed tracing with baggage propagation.
+This is a simple Python script demonstrating how to integrate OpenTelemetry with Signoz for distributed tracing in Python projects. It sets up a tracer provider with a span exporter, propagators, and starts spans with baggage for context propagation. This integration allows for efficient monitoring and tracing of requests across distributed systems 
 
 ## Setup
 
