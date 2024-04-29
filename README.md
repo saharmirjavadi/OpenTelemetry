@@ -50,7 +50,7 @@ You can install Signoz using Docker by following these steps:
    docker-compose up -d
    ```
 
-4. Access Signoz at [http://localhost:3000](http://localhost:3000) in your browser.
+4. Access Signoz at [http://localhost:3000](http://localhost:3301) in your browser.
 
 For more detailed installation instructions and configuration options, refer to the [Signoz documentation](https://signoz.io/docs/install/docker/).
 
@@ -65,6 +65,4 @@ For more detailed installation instructions and configuration options, refer to 
 
 Contributions are welcome! Please feel free to submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
